@@ -6,6 +6,8 @@ Start outside the garden gate and explore 21 connected viewpoints across the gro
 
 ## Play
 
+**[Play in your browser](https://bossbaby-tw.github.io/nohara-house/)** — no download or sign-in required.
+
 - Drag to look around; click direction markers or nearby destinations to walk.
 - Follow the blue stairs from the entry to the second-floor landing, playroom, family bedroom, and balcony.
 - Find five family moments, pet Shiro, open the secret toy chest, and switch on the TV.
