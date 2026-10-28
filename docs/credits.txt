@@ -1,0 +1,6 @@
+Unofficial fan interpretation inspired by Crayon Shin-chan. Characters and series belong to their respective rights holders.
+Custom 3D geometry and procedural surface textures created for this experience.
+Character design references: official family character guide at https://www.tv-asahi.co.jp/shinchan/character/ and Futabasha's https://manga-shinchan.com/character . Reference artwork is not bundled in the game.
+Kasukabe Afternoon: original instrumental game score composed for this experience, synthesized locally in the browser. This is not an official Shin-chan recording.
+Optional official music video: Ora wa Ninkimono (India version), official movie dance video at https://www.youtube.com/watch?v=ePB7BXSCTaM , sourced from https://shinchan-movie.com/2025/20250529/news/ . Played only via the publisher's visible YouTube player; availability is controlled by YouTube and the publisher.
+Three.js rendering engine and hardwood/grass example textures from https://github.com/mrdoob/three.js (MIT license; see vendor/THREE-LICENSE.txt).
